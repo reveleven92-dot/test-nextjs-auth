@@ -4,7 +4,7 @@
   "language": "typescript",
   "framework": "nextjs",
   "tech_stack": "Next.js 15 + TypeScript + Tailwind CSS + App Router",
-  "linter_command": "npx next lint",
+  "linter_command": "npx eslint .",
   "formatter_command": "npx prettier --write .",
   "test_command": "npx jest --passWithNoTests",
   "coverage_command": "npx jest --coverage --passWithNoTests",
